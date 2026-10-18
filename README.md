@@ -216,7 +216,3 @@ SkillSync is designed for usage-based billing per assessment campaign. A campaig
 - Webhooks and ATS integrations for recruiting workflows.
 - Regional data residency and tenant-specific encryption keys.
 - Subscription management, invoicing, and self-serve plan upgrades.
-
-## License
-
-Add the license that matches your distribution model before publishing this repository.
